@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&display=swap");
+
+body {
+	font-family: "Poppins", sans-serif;
+}
+.banner_bg {
+	background-color: #264653;
+}
+.honda_highlight_text {
+	color: #e76f51;
+}
+.honda_btn {
+	color: #fff;
+	background-color: #ec6847;
+	transition: 0.5s;
+}
+.honda_btn:hover {
+	color: #fff;
+	background-color: #ec4116;
+}
+
+.featured_shot_text {
+	color: #e76f51;
+}
+.article_btn {
+	border: 1px solid #e76f51;
+	color: #e76f51;
+	transition: all 0.5s;
+}
+.article_btn:hover {
+	background-color: #e76f51;
+	color: #fff;
+}
+.bi-star-fill,
+.bi-star {
+	color: #e77c40;
+}
+.footer_area ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.footer_area ul li {
+	margin-right: 1rem;
+}
+.footer_area ul li a {
+	text-decoration: none;
+	color: #fff;
+}
